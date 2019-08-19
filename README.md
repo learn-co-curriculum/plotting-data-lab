@@ -152,8 +152,8 @@ Ok, now let's plot two different traces side by side.  First, create another tra
 
 
 ```python
-bar_trace_first_three_areas = {'type': 'scatter', 'x': [], 'y': [], 'text': []}
-bar_trace_first_three_pops = {'type': 'scatter', 'x': [], 'y': [], 'text': []}
+bar_trace_first_three_areas = {'type': 'bar', 'x': [], 'y': [], 'text': []}
+bar_trace_first_three_pops = {'type': 'bar', 'x': [], 'y': [], 'text': []}
 ```
 
 
